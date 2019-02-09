@@ -1,0 +1,35 @@
+/**
+ * Theme Name: V A L I S A
+ * Template: framer-work
+ */
+
+body {
+    background-color: #070707;
+    color: #FFFFD2;
+    font-size: 1em;
+    font-family: 'Nunito', sans-serif;
+}
+
+h2 {
+    /* font-family: 'Homemade Apple', cursive; */
+    font-weight: 100;
+}
+
+.autograph {
+    font-family: 'Arizonia', cursive;
+    font-size: 54px;
+}
+
+.has-grey-background-color {
+    background-color: #111111;
+}
+
+a,
+a.button {
+    background-color: #29FFFF;
+    color: #390754;
+}
+
+hr {
+    width: 75px;
+}
