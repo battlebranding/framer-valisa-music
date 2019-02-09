@@ -24,7 +24,10 @@ h2 {
     background-color: #111111;
 }
 
-a,
+a {
+    color: #29FFFF;
+}
+
 a.button {
     background-color: #29FFFF;
     color: #390754;
