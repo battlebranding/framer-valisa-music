@@ -42,8 +42,17 @@ Framer::_hero( 'standard', [
                 <a class="button" href="https://itunes.apple.com/us/album/heart-check-single/1437680507">Stream Now <i class="fas fa-play"></i></a>
             </div>
         </div>
+        <hr />
     </div>
 </section>
+
+<?php
+
+Framer::_content( 'post', [
+    'post_type' => 'post'
+] );
+
+?>
 
 <section class="has-padding-xl">
     <div class="container has-text-align-center">
