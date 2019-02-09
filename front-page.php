@@ -13,7 +13,7 @@ Framer::_hero( 'standard', [
     // 'primary_button_link'  => home_url( 'shop' ),
     // 'primary_button_icon'  => 'fa-long-arrow-alt-right',
     'classes'           => [
-        'has-parallax',
+        // 'has-parallax',
         'has-text-align-right',
         'no-overlay',
         'has-primary-color',
