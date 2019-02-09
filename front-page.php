@@ -2,6 +2,8 @@
 // use Framer;
 get_header();
 
+Framer::_header();
+
 // Show the hero.
 Framer::_hero( 'standard', [
     'background_img_url'   => get_stylesheet_directory_uri() . '/assets/images/valisa-smiling-in-black-white.jpg',

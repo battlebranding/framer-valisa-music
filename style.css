@@ -41,3 +41,7 @@ header,
 #breadcrumb {
     background-color: #000000;
 }
+
+header a {
+    color: #ffffff;
+}
